@@ -1,4 +1,4 @@
-bd:
+db:
   username: debuggeandoideas
   maximum-pool-size: 5
   connection-timeout: 20000
