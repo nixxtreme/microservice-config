@@ -1,6 +1,6 @@
 db:
-  username: debuggeandoideas
+  username: debuggeandoideas-prod
   maximum-pool-size: 5
   connection-timeout: 20000
-  url: jdbc:postgresql://localhost:5432/companies
+  url: jdbc:postgresql://db-companies:5235/companies
   password: udemy
